@@ -10,7 +10,7 @@ For an example of this using the Iris dataset, see the notes from Lecture 7 and 
 ## What you need to do: 
 
 - Don't forget that you are doing regression-- pay attention to what you need to change to make this do regression rather than classification.
-- Make sure to implement an appropriate regression metric - you should use mean squared error for this assignment. 
+- Make sure to implement an appropriate regression metric - you should use **mean squared error** for this assignment. 
 - Make sure your variables and functions all have reasonable names. I will deduct points if variables/functions are named things such as "iris" or "classification" (as this is a regression problem).
 
 1. Implement mean squared error (mse) algorithm  
